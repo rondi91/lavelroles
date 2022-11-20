@@ -1,1 +1,4 @@
 https://www.itsolutionstuff.com/post/laravel-9-user-roles-and-permissions-tutorialexample.html
+
+
+git commit -m "install composer require spatie/laravel-permission"
