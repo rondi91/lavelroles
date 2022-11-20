@@ -2,3 +2,4 @@ https://www.itsolutionstuff.com/post/laravel-9-user-roles-and-permissions-tutori
 
 
 git commit -m "install composer require spatie/laravel-permission"
+git commit -m "install composer require laravelcollective/html"
